@@ -1,10 +1,9 @@
 ----------------------------------------------------------------------------------
--- Filename : priority_encoder.vhdl
+-- Filename : priority_encoder_8_3.vhdl
 -- Author : Shyama Gandhi
 -- Date : 06-Sep-2023
--- Design Name: priority encoder
--- Description : In this file we will implement a 8:3 priority encoder with a 
--- "group select" signal
+-- Design Name: priority encoder 8x3
+-- Description : This file implements a 8:3 priority encoder with a "group select" signal
 -- Additional Comments:
 -- Copyright : University of Alberta, 2023
 -- License : CC0 1.0 Universal

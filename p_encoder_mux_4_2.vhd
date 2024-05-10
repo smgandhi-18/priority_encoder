@@ -1,3 +1,13 @@
+----------------------------------------------------------------------------------
+-- Filename : p_encoder_mux_4_2.vhdl
+-- Author : Shyama Gandhi
+-- Date : 06-Sep-2023
+-- Design Name: priority encoder
+-- Description : This file implements a 4:2 priority encoder using a 4x1 multiplexer
+-- Additional Comments:
+-- Copyright : University of Alberta, 2023
+-- License : CC0 1.0 Universal
+----------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

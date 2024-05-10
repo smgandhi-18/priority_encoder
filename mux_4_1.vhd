@@ -1,3 +1,14 @@
+----------------------------------------------------------------------------------
+-- Filename : mux_4_1.vhdl
+-- Author : Shyama Gandhi
+-- Date : 06-Sep-2023
+-- Design Name: mux 4x1
+-- Description : This file implements a :2 multiplexer
+-- Additional Comments:
+-- Copyright : University of Alberta, 2023
+-- License : CC0 1.0 Universal
+----------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 ENTITY mux_4_1 IS

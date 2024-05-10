@@ -1,3 +1,14 @@
+----------------------------------------------------------------------------------
+-- Filename : priority_encoder_4_2.vhdl
+-- Author : Shyama Gandhi
+-- Date : 06-Sep-2023
+-- Design Name: priority encoder 4x2
+-- Description : Thsi file implements a 4:2 priority encoder with a "group select" signal
+-- Additional Comments:
+-- Copyright : University of Alberta, 2023
+-- License : CC0 1.0 Universal
+----------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 
