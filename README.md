@@ -14,3 +14,7 @@ This VHDL implementation of a priority encoder includes modules for various conf
 - `p_encoder_mux_4_2.vhd`: VHDL file for a 4-to-2 priority encoder using 4-to-1 multiplexer.
 - `priority_encoder_4_2.vhd`: VHDL file for a 4-to-2 priority encoder.
 - `priority_encoder_8_3.vhd`: VHDL file for an 8-to-3 priority encoder.
+
+##License
+This project is licensed under the CC0 1.0 Universal (Provide credits to the author).
+
